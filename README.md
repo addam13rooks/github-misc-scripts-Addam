@@ -1,4 +1,4 @@
-# github-misc-scripts
+# github-misc-scripts my-copy
 
 Miscellaneous GitHub scripts, `gh` commands, API calls, GraphQL queries, etc. for power user automation.
 
