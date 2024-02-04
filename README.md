@@ -11,3 +11,4 @@ See the folder categories:
 
 > [!TIP]
 > The **[gh cli](gh-cli)** folder is the most maintained; I've started adding both API and GraphQL queries in there using `gh api` commands.
+# I look forward to mastering scripts
